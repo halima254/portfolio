@@ -1,6 +1,7 @@
 
 .introduction{
-    background: url(/assets/background.jpg);
+    /* background: url(/assets/background.jpg); */
+    background-color: aqua;
     height: 600px;
     width: 100%;
     margin-top: 0px;
@@ -21,13 +22,30 @@ h1{
     
 }
 .menu{
-  
-    /* background-color: whitesmoke; */
-    /* opacity: 0.9; */
-    color:#ad145762;
-    text-shadow: 1px 1px whitesmoke;
-    height: 50px;
+  display: flex;
+  height: 3rem;
+  justify-content: space-between;
+  background-color: blueviolet;
+    
 }
+.menu ul{
+    display: flex;
+    float: right;
+   
+}
+.menu li{
+    display: flex;
+    margin-top: 10px;
+    
+}
+.menu ul li{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 5rem;
+    
+  
+}
+
 .list{
     display: flex;
     flex-direction: row;
@@ -74,7 +92,7 @@ h4{
     border-radius: 20px 20px;
 }
 .aboutme{
-    height: 270px;
+    height: 320px;
     width: 100%;
     background-color: whitesmoke;
     color: #7F2D41;
