@@ -52,6 +52,9 @@ h4{
 .skill{
     margin-left: 100px;
 }
+.title{
+    text-align: center;
+}
 
 .contacts{
     margin-left: 100px;
@@ -81,7 +84,7 @@ h4{
     /* display: flex;
     flex-direction: row; */
 }
-#aboutme1{
+.me{
     text-align: center;
 }
 
@@ -109,6 +112,9 @@ h4{
     display: flex;
     flex-direction: row;
 }
+.webs{
+    text-align: center;
+}
 .project1{
     margin-left: 100px;
 }
@@ -121,16 +127,31 @@ h4{
 .socialmedia{
     display: flex;
     flex-direction: row;
-    margin-left: 100px;
+    margin-left: 70px;
 }
 .facebook{
-margin-left: 100px;
+margin-left: 70px;
+color: #7F2D41;
 }
 .linked{
-    margin-left: 100px;
+    margin-left: 70px;
+    color: #7F2D41;
 }
 .twitter{
-    margin-left: 100px;
+    margin-left: 70px;
+    color: #7F2D41;
+}
+.phone{
+margin-left: 70px;
+color: #7F2D41;
+}
+.email{
+margin-left: 70px;
+color: #7F2D41;
+}
+.social{
+ color: #ad145762;
+ text-align: center;    
 }
 
 
