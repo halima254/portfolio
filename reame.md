@@ -8,4 +8,7 @@ Developed by Halima Yahya Cheptoo
 This project was aimed at testing the learner's knowledge on the past lessons taught in class.
 This tests if the learner clearly understood html, css and bootstrap. Instructions given was to create a 
 landing page porfolio that used html, css and boostrap.
-##
+## Technologies used.
+Technologies used was basically html, css and bootstrap
+html has been used to develop the webpage while css has been used to style and make the
+webpage more appealing to the eye. Bootstrap, although it has been used a liitle bit, it advances the styling theme of the webpage.
