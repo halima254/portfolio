@@ -1,7 +1,7 @@
 
 .introduction{
-    /* background: url(/assets/background.jpg); */
-    background-color: aqua;
+    background: url(/assets/background.jpg);
+    /* background-color: aqua; */
     height: 600px;
     width: 100%;
     margin-top: 0px;
@@ -25,7 +25,7 @@ h1{
   display: flex;
   height: 3rem;
   justify-content: space-between;
-  background-color: blueviolet;
+  /* background-color: blueviolet; */
     
 }
 .menu ul{
@@ -96,12 +96,13 @@ h4{
     flex-direction: row;
     margin-top: -150px;
     margin-left: 800px;
-    border: 3px 3px whitesmoke;
+    
     border-radius: 20px 20px;
 }
 #halima img{
     border-radius: 50%;
-    margin-top: -20rem;
+    margin-top: -5rem;
+    border: 3px 3px whitesmoke;
 }
 .aboutme{
     height: 320px;
@@ -128,7 +129,11 @@ h4{
 .abt-image{
     display: flex;
     flex-direction: row;
-
+}
+#halima2 img{
+    border-radius: 50%;
+    margin-top: 0.5rem;
+    border: 3px 3px whitesmoke;
 }
 .skills{
     height: 600px;
