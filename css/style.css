@@ -49,12 +49,10 @@ h4{
     margin-left: 100px;
 }
 
-.skills{
+.skill{
     margin-left: 100px;
 }
-.vision{
-    margin-left: 100px;
-}
+
 .contacts{
     margin-left: 100px;
 }
@@ -101,11 +99,25 @@ h4{
 }
 .skills{
     height: 400px;
-    width: 100%;
-    background-color:#7F2D41;
+    width: auto;
+    background: url(/assets/background.jpg);
     color: whitesmoke;
+    /* margin-left: 50px; */
 }
-
+.projects{
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.project1{
+    margin-left: 100px;
+}
+.project2{
+    margin-left: 100px;
+}
+.project3{
+    margin-left: 100px;
+}
 
 
 
