@@ -43,7 +43,11 @@ h1{
     flex-direction: row;
     margin: 10px 5rem; 
 }
-.menu ul li:hover{
+.menu ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.menu ul li a:hover{
     cursor: pointer;
     color: black;
     transition: 03s ease;
@@ -94,6 +98,10 @@ h4{
     margin-left: 800px;
     border: 3px 3px whitesmoke;
     border-radius: 20px 20px;
+}
+#halima img{
+    border-radius: 50%;
+    margin-top: -20rem;
 }
 .aboutme{
     height: 320px;
