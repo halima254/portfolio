@@ -153,7 +153,15 @@ color: #7F2D41;
  color: #ad145762;
  text-align: center;    
 }
-
+.footer{
+    background: url(/assets/background.jpg);
+    height: 30px;
+    width: 100%;
+}
+.copyright{
+    text-align: center;
+    color: whitesmoke;
+}
 
 
 
