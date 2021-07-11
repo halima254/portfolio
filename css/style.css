@@ -98,7 +98,7 @@ h4{
 
 }
 .skills{
-    height: 400px;
+    height: 600px;
     width: auto;
     background: url(/assets/background.jpg);
     color: whitesmoke;
@@ -118,6 +118,21 @@ h4{
 .project3{
     margin-left: 100px;
 }
+.socialmedia{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+.facebook{
+margin-left: 100px;
+}
+.linked{
+    margin-left: 100px;
+}
+.twitter{
+    margin-left: 100px;
+}
+
 
 
 
