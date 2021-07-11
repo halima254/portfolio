@@ -1,11 +1,14 @@
 
 .introduction{
     background: url(/assets/background.jpg);
-    height: 400px;
+    height: 500px;
     width: 100%;
     margin-top: 0px;
     color: whitesmoke;
 
+}
+h1{
+    margin-top: 10px;
 }
 
 .name{
@@ -30,13 +33,20 @@
     flex-direction: row;
     margin-top: -20px;
 }
+h2{
+    color: #ad145762;
+    text-shadow: 1px 1px whitesmoke;
+}
 h4{
     padding-top: 12px;
    
 }
-.about{
+.home{
     margin-left: 400px;
 
+}
+.about{
+    margin-left: 100px;
 }
 .education{
     margin-left: 100px;
@@ -47,11 +57,19 @@ h4{
 .vision{
     margin-left: 100px;
 }
-.hobbies{
-    margin-left: 100px;
-}
 .contacts{
     margin-left: 100px;
+}
+.info{
+    margin-left: 20px;
+}
+#halima{
+    display: flex;
+    flex-direction: row;
+    margin-top: -150px;
+    margin-left: 800px;
+    border: 3px 3px whitesmoke;
+    border-radius: 200px 200px 200px 200px;
 }
 
 
