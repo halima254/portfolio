@@ -1,7 +1,7 @@
 
 .introduction{
     background: url(/assets/background.jpg);
-    height: 500px;
+    height: 600px;
     width: 100%;
     margin-top: 0px;
     color: whitesmoke;
@@ -13,7 +13,7 @@ h1{
 
 .name{
     text-align: center;
-    padding-top: 5px;
+    padding-top: 10px;
 }
 .name1{
     color:#ad145762;
@@ -42,15 +42,13 @@ h4{
    
 }
 .home{
-    margin-left: 400px;
+    margin-left: 600px;
 
 }
 .about{
     margin-left: 100px;
 }
-.education{
-    margin-left: 100px;
-}
+
 .skills{
     margin-left: 100px;
 }
@@ -63,13 +61,43 @@ h4{
 .info{
     margin-left: 20px;
 }
+.information{
+    margin-top: 100px;
+}
 #halima{
     display: flex;
     flex-direction: row;
     margin-top: -150px;
     margin-left: 800px;
     border: 3px 3px whitesmoke;
-    border-radius: 200px 200px 200px 200px;
+    border-radius: 20px 20px;
+}
+.aboutme{
+    height: 270px;
+    width: 100%;
+    background-color: whitesmoke;
+    color: #7F2D41;
+    margin-top: -5px;
+    box-shadow: 2px 1px #ad145762;
+   
+    /* display: flex;
+    flex-direction: row; */
+}
+#aboutme1{
+    text-align: center;
+}
+
+.indepth{
+   margin-top: 20px;
+   margin-left: 50px;
+   /* display: flex;
+   flex-direction: row; */
+  
+}
+.abt-image{
+    display: flex;
+    flex-direction: row;
+
 }
 
 
