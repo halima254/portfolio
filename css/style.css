@@ -153,14 +153,22 @@ h4{
 .project1{
     margin-left: 100px;
 }
-.project1 img{
 
-}
 .project2{
     margin-left: 100px;
 }
 .project3{
     margin-left: 100px;
+}
+#project1 img{
+    border-radius: 50%;
+
+}
+#project2 img{
+    border-radius: 50%;
+}
+#project3 img{
+    border-radius: 50%;
 }
 .socialmedia{
     display: flex;
