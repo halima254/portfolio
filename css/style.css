@@ -147,6 +147,18 @@ h4{
     display: flex;
     flex-direction: row;
 }
+.languages{
+    text-align: center;
+}
+/* .languages{
+    width: 500px;
+}
+.languages,tr,th{
+    margin-left: 400PX;
+    padding: 5px;
+    border: 2px solid whitesmoke;
+    border-collapse: collapse;
+  } */
 .webs{
     text-align: center;
 }
