@@ -49,7 +49,7 @@ h1{
 }
 .menu ul li a:hover{
     cursor: pointer;
-    color: black;
+    color: #7F2D41;
     transition: 03s ease;
 }
 
@@ -152,6 +152,9 @@ h4{
 }
 .project1{
     margin-left: 100px;
+}
+.project1 img{
+
 }
 .project2{
     margin-left: 100px;
