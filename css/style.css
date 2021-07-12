@@ -1,6 +1,6 @@
 
 .introduction{
-    background: url("/assets/background.jpg");
+    background: url("../assets/background.jpg");
     /* background-color: aqua; */
     height: 600px;
     width: 100%;
@@ -138,7 +138,7 @@ h4{
 .skills{
     height: 600px;
     width: auto;
-    background: url("/assets/background.jpg");
+    background: url("../assets/background.jpg");
     color: whitesmoke;
     /* margin-left: 50px; */
 }
@@ -192,7 +192,7 @@ color: #7F2D41;
  text-align: center;    
 }
 .footer{
-    background: url("/assets/background.jpg");
+    background: url("../assets/background.jpg");
     height: 30px;
     width: 100%;
 }
